@@ -1,0 +1,8 @@
+# Idea
+.idea
+
+# Package
+*.tgz
+
+# PowerShell script
+*.ps1
