@@ -19,7 +19,7 @@ if ($matches[0].length -gt 20) {
         git commit -m "automatic new mdi.svg version"
         git push origin master
         npm version minor
-        npm publish
+        npm publish --access public
     }
 }
 

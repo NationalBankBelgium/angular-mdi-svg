@@ -17,7 +17,7 @@ This bundle is usable with Angular(JS) Material and to facilitate his usage, it'
 Add the following plugin configuration in webpack config:
 ```javascript
 new CopyWebpackPlugin([
-  { from: 'node_modules/angular-mdi-svg/mdi.svg',
+  { from: 'node_modules/@nationalbankbelgium/angular-mdi-svg/mdi.svg',
     to: 'assets/mdi.svg'
   }
 ]);
