@@ -1,4 +1,7 @@
 # @nationalbankbelgium/angular-mdi-svg
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NationalBankBelgium/angular-mdi-svg.svg)](https://greenkeeper.io/)
+
 Material Design Icons mdi.svg file for Angular(JS) Material.
 Based on [MaterialDesign](https://github.com/Templarian/MaterialDesign) project, there is
 a CRON behind this project to pull the latest version of the **mdi.svg** file 
